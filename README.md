@@ -12,8 +12,11 @@ Le programme prend en paramètre un ou plusieurs fichiers contenant des elements
 
 Exemple :
 
+
 A B C
+
 D
+
 E F
 
 Fera une matrice 3x3
