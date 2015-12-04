@@ -1,8 +1,12 @@
-# Travail pratique Construction et maintenance de logiciel UQAM
+# Filtre Matrix
 
-Exemple de travail pratique effectué dans un cours de l'UQAM de construction de logiciel. Le langage utilisé est C. Pour compiler le programme il s'uffit de saisir la commande "make" à la console à partir du répertoire source.
+## Compiler
+
+$ make
 
 ## Description du programme
+
+Transforme des matrices selon les parametres,
 
 Le programme prend en paramètre un ou plusieurs fichiers contenant des elements à intégrer dans une matrice.
 
